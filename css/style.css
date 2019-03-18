@@ -1,0 +1,25 @@
+body{
+	background-color: #2F4F4F;
+	margin-top: 100px;
+	margin-left: 100px;
+	}
+a:link{
+	color: 	#FFF8DC;
+}
+a:hover{
+	color: 	#DAA520;
+}
+h1, p {
+	color: white;
+	font-family: helvetica; sans serif;
+}
+h1{
+	font-weight: lighter;
+	font-size: 70pt;
+}
+h2{
+	color: #FF7F50;
+	font-family: helvetica; sans serif;
+	font-weight: lighter;
+	font-size: 32pt;
+}
